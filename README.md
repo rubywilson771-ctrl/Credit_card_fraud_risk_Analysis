@@ -55,4 +55,4 @@ Electronics and Apparel transactions are frequent fraud targets.
 Risk Management -->> With a 28.6% fraud risk rate and a 1.99 prevention rate, proactive measures are in place but continuous improvement is required.
 
 
-![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/Bank_loan_Analysis/blob/main/Bank%20Loan%20report%20Overview.png)
+![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/Credit_card_fraud_risk_Analysis/blob/main/credit%20card%20dashboard.png)
