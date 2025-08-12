@@ -1,10 +1,12 @@
 **💳 Credit Card Risk Analysis – Power BI Dashboard***
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This interactive Power BI dashboard analyzes credit card fraud risks, revealing fraud patterns, high-risk transactions, and state-level trends. It is designed to support banks, financial institutions, and payment processors in detecting, preventing, and reducing fraud incidents.
 
 -------------------------------------------------------------------------------------------------------------------------
 
 **📊 Dashboard Features**
+------------------------------------------------------------------------------------------------------------------------------------
 
 Key Metrics:
 
@@ -36,7 +38,8 @@ Fraud Type vs. Transaction Category --->> Connects fraud patterns to spending ca
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-📈 Key Insights
+**📈 Key Insights**
+---------------------------------------------------------------------------------------------------------------------------------
 
 Major Risk -->> Card Not Present is the most frequent fraud type, representing 23.1% of total cases.
 
