@@ -60,4 +60,4 @@ Risk Management -->> With a 28.6% fraud risk rate and a 1.99 prevention rate, pr
 
 ![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/Credit_card_fraud_risk_Analysis/blob/main/credit%20card%20dashboard.png)
 
-(![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/Credit_card_fraud_risk_Analysis/blob/main/credit%20card%20dashboard.png)
+(![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/Credit_card_fraud_risk_Analysis/blob/main/snapshot%202.png)
